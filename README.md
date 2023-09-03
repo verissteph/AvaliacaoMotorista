@@ -33,8 +33,7 @@ O objetivo principal deste projeto é servir como um recurso educacional para aq
 
 1. Clone este repositório:
    ```bash
-   git clone [URL_DO_REPOSITÓRIO](https://github.com/verissteph/AvaliacaoMotorista.git
-)
+   git clone [URL_DO_REPOSITÓRIO](https://github.com/verissteph/AvaliacaoMotorista.git)
    ```
 
 2. Acesse o diretório do projeto:
