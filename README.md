@@ -59,9 +59,6 @@ O objetivo principal deste projeto é servir como um recurso educacional para aq
      flutter run -d <ID_DO_DISPOSITIVO>
      ```
 
-## Evidencia
-file:///home/stephanie/Downloads/demoAppAvaliacao.mp4
-
 ## Contribuição
 
 Se este projeto ajudar em seu aprendizado e você encontrar maneiras de melhorá-lo, sinta-se à vontade para fazer um fork e abrir um pull request. Todas as contribuições são bem-vindas!
