@@ -64,6 +64,6 @@ Se este projeto ajudar em seu aprendizado e você encontrar maneiras de melhorá
 
 ## Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
+Este projeto está sob a licença MIT.
 
 
